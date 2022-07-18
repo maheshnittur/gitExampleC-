@@ -5,4 +5,4 @@ test:
       ./helloWorld
 
 clean:
-      $(RM) hello helloTest
+      $(RM) helloWorld
